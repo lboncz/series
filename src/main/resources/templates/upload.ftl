@@ -27,10 +27,12 @@
 						<div class="article" align="center">
 							<h2>Upload</h2>
 							<form method="post">
-								<input type="text" name="newseries">
+								IMDB URL:
+								<input type="text" name="newseries" size="40">
 								<button type="submit">Upload</button>
 							</form>
-							<table border="1">
+							<br>
+							<table>
 								<tbody>
 									<tr>
 										<td>http://www.imdb.com/title/tt1439629/</td>

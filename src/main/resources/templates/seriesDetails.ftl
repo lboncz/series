@@ -27,6 +27,33 @@
 						<div class="article" align="center">
 							<h2>${series.title}</h2>
 							<img src="${series.id}.jpg">
+						<h2>Comments</h2>
+						<p>
+						<table>
+							<thead>
+								<tr>
+									<th>Author</th>
+									<th>Comment</th>
+								</tr>
+							</thead>
+							<tbody>
+							<#list comments as c>
+								<tr>
+									<td>${c.author}</td>
+									<td>${c.content}</td>
+								</tr>
+							</#list>
+							</tbody>
+						</table>
+						</p>
+						<p>
+						<h2>Post Comment</h2>
+						<form method="post">
+							Name: <input type="text" name="author">
+							<br><textarea rows="4" cols="50" name="content">Enter comment here...</textarea>
+							<br><button type="submit">Send</button>
+						</form>
+						</p>
 						</div>
 					</div>
 				</div>

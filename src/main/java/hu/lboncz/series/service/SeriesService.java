@@ -13,9 +13,13 @@ import org.jsoup.select.Elements;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import hu.lboncz.series.repository.dao.CommentDao;
 import hu.lboncz.series.repository.dao.SeriesDao;
+import hu.lboncz.series.repository.domain.CommentEntity;
 import hu.lboncz.series.repository.domain.SeriesEntity;
+import hu.lboncz.series.view.model.CommentView;
 import hu.lboncz.series.view.model.SeriesView;
+import hu.lboncz.series.view.transform.CommentTransformer;
 import hu.lboncz.series.view.transform.SeriesTransformer;
 
 @Service
@@ -25,7 +29,13 @@ public class SeriesService {
 	private SeriesDao seriesDao;
 	
 	@Autowired
+	private CommentDao commentDao;
+	
+	@Autowired
 	private SeriesTransformer seriesTransformer;
+	
+	@Autowired
+	private CommentTransformer commentTransformer;
 	
 	public List<SeriesView> getSeries() {
 		return seriesTransformer.transformSeriesEntities(seriesDao.findAll());
@@ -60,6 +70,14 @@ public class SeriesService {
     		title = imdb.select("div.title_wrapper").select("h1").text();
     	}
     	seriesDao.save(new SeriesEntity(title, outputStream.toByteArray()));
+	}
+
+	public List<CommentView> getCommentsOfSeries(Long seriesId) {
+		return commentTransformer.trasformCommentEntities(commentDao.findBySeries(seriesDao.findById(seriesId).get()));
+	}
+
+	public void saveComment(Long id, String author, String content) {
+		commentDao.save(new CommentEntity(seriesDao.findById(id).get(), author, content));
 	}
 
 }

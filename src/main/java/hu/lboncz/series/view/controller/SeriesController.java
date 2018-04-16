@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import hu.lboncz.series.service.SeriesService;
+import hu.lboncz.series.view.model.CommentView;
 import hu.lboncz.series.view.model.SeriesView;
 
 @Controller
@@ -26,13 +27,14 @@ public class SeriesController {
 		List<SeriesView> seriesList = seriesService.getSeries();
 		if (seriesList.isEmpty()) {
 			seriesService.save("http://www.imdb.com/title/tt1632701/");
+			seriesService.saveComment(1L, "Harvey", "My favorite TV show! :)");
 //			seriesService.save("http://www.imdb.com/title/tt0118480/");
 //			seriesService.save("http://www.imdb.com/title/tt0092455/");
 			seriesList = seriesService.getSeries();
 		}
 		return seriesList;
 	}
-
+	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String showHome() {
 		return "home";
@@ -65,7 +67,15 @@ public class SeriesController {
 	public String showSeriesDetails(@PathVariable("id") Long id, Model model) {
 		SeriesView series = seriesService.findById(id);
 		model.addAttribute("series", series);
+		List<CommentView> comments = seriesService.getCommentsOfSeries(id);
+		model.addAttribute("comments", comments);
 		return "seriesDetails";
+	}
+	
+	@RequestMapping(value = "/{id}.html", method = RequestMethod.POST)
+	public String postComment(@PathVariable("id") Long id, @RequestParam(value = "author") String author, @RequestParam(value = "content") String content) {
+		seriesService.saveComment(id, author, content);
+		return "redirect:{id}.html";
 	}
 
 }
