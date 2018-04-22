@@ -11,13 +11,13 @@ import hu.lboncz.series.view.model.CommentView;
 
 @Component
 public class CommentTransformer {
-	
+
 	@Autowired
 	private SeriesTransformer seriesTransformer;
-	
+
 	public List<CommentView> trasformCommentEntities(Iterable<CommentEntity> commentEntities) {
 		List<CommentView> commentViews = new ArrayList<>();
-		for (CommentEntity commentEntity: commentEntities) {
+		for (CommentEntity commentEntity : commentEntities) {
 			commentViews.add(transformCommentEntity(commentEntity));
 		}
 		return commentViews;
@@ -31,5 +31,5 @@ public class CommentTransformer {
 		commentView.setContent(commentEntity.getContent());
 		return commentView;
 	}
-	
+
 }

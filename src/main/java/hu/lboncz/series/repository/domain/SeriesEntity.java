@@ -3,25 +3,22 @@ package hu.lboncz.series.repository.domain;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.Lob;
 
 @Entity(name = "series")
 public class SeriesEntity {
-	
+
 	@Id
 	@GeneratedValue
 	private Long id;
-	
-	private String title;
-	
-	@Lob
-	private byte[] poster;
 
-	
+	private String title;
+
+	private String poster;
+
 	public SeriesEntity() {
 	}
 
-	public SeriesEntity(String title, byte[] poster) {
+	public SeriesEntity(String title, String poster) {
 		this.title = title;
 		this.poster = poster;
 	}
@@ -42,12 +39,12 @@ public class SeriesEntity {
 		this.title = title;
 	}
 
-	public byte[] getPoster() {
+	public String getPoster() {
 		return poster;
 	}
 
-	public void setPoster(byte[] poster) {
+	public void setPoster(String poster) {
 		this.poster = poster;
 	}
-	
+
 }

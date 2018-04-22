@@ -26,7 +26,7 @@
 					<div class="mainbar">
 						<div class="article" align="center">
 							<#list seriesList as s>
-								<a href="${s.id}.html"><img src="${s.id}.jpg" alt="${s.title}" width="182" height="268"></a>
+								<a href="${s.id}.html"><img src="images/${s.poster}" alt="${s.title}" width="182" height="268"></a>
 							</#list>
 						</div>
 					</div>

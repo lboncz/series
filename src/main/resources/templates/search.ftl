@@ -32,7 +32,7 @@
 							</form>
 							<p>
 								<#list searchResult as s>
-									<a href="${s.id}.html"><img src="${s.id}.jpg" alt="${s.title}" width="182" height="268"></a>
+									<a href="${s.id}.html"><img src="images/${s.poster}" alt="${s.title}" width="182" height="268"></a>
 								</#list>
 							</p>
 						</div>

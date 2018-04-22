@@ -26,7 +26,7 @@
 					<div class="mainbar">
 						<div class="article" align="center">
 							<h2>${series.title}</h2>
-							<img src="${series.id}.jpg">
+							<img src="images/${series.poster}">
 						<h2>Comments</h2>
 						<p>
 						<table>

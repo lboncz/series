@@ -28,7 +28,7 @@
 							<h2>Upload</h2>
 							<form method="post">
 								IMDB URL:
-								<input type="text" name="newseries" size="40">
+								<input type="text" name="imdbUrl" size="40">
 								<button type="submit">Upload</button>
 							</form>
 							<br>
