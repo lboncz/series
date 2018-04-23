@@ -24,7 +24,11 @@ public class SeriesController {
 		if (seriesList.isEmpty()) {
 			seriesService.saveSeries("Suits", "1.jpg");
 			seriesService.saveSeries("Married with Children", "2.jpg");
-			seriesService.saveComment(1L, "Harvey", "My favorite TV show! :)");
+			seriesService.saveSeries("Psych", "3.jpg");
+			seriesService.saveSeries("Breaking Bad", "4.jpg");
+			seriesService.saveComment(1L, "Harvey", "My favorite TV show!");
+			seriesService.saveComment(1L, "John", "Not bad.");
+			seriesService.saveComment(2L, "John", "Al Bundy rules!");
 			seriesList = seriesService.getSeries();
 		}
 		return seriesList;

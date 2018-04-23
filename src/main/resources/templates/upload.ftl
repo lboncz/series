@@ -39,12 +39,12 @@
 										<td>Community</td>
 									</tr>
 									<tr>
-										<td>http://www.imdb.com/title/tt1632701/</td>
-										<td>Suits</td>
+										<td>http://www.imdb.com/title/tt0212671/</td>
+										<td>Malcolm in the Middle</td>
 									</tr>
 									<tr>
-										<td>http://www.imdb.com/title/tt0092400/</td>
-										<td>Married with Children</td>
+										<td>http://www.imdb.com/title/tt0285403/</td>
+										<td>Scrubs</td>
 									</tr>
 									<tr>
 										<td>http://www.imdb.com/title/tt0118480/</td>
