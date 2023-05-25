@@ -456,20 +456,22 @@ telex.hu##.banner-bottom
 telex.hu##.birthday-widget
 telex.hu##.birthday-widget-mini
 telex.hu##a[href*="tamogatott-tartalom"]
-telex.hu##a[href*="/pr-cikk/"]
-telex.hu##a[href*="orban-viktor"]
-telex.hu##a[href*="deutsch-tamas"]
-telex.hu##a[href*="szijjarto"]
-telex.hu##a[href*="bayer-zsolt"]
-telex.hu##a[href*="schmidt-maria"]
-telex.hu##a[href*="menczer-tamas"]
-telex.hu##a[href*="pinter-sandor"]
-telex.hu##a[href*="retvari-bence"]
-telex.hu##a[href*="novak-elod"]
-telex.hu##a[href*="novak-katalin"]
-telex.hu##a[href*="varga-judit"]
-telex.hu##a[href*="rogan-antal"]
-telex.hu##a[href*="kovacs-zoltan"]
-telex.hu##a[href*="kocsis-mate"]
-telex.hu##a[href*="rakay-philip"]
-telex.hu##a[href*="lazar-janos"]
+telex.hu##.list__item:has-text(Támogatott tartalom):style(opacity: 0.05)
+telex.hu##.list__item:has-text(PR-cikk):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Orbán Viktor):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Deutsch Tamás):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Szijjártó):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Bayer Zsolt):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Schmidt Mária):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Menczer Tamás):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Pintér Sándor):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Rétvári Bence):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Novák Előd):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Novák Katalin):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Varga Judit):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Rogán Antal):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Kovács Zoltán):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Kocsis Máté):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Rákay Philip):style(opacity: 0.05)
+telex.hu##.list__item:has-text(Lázár János):style(opacity: 0.05)
+telex.hu##.list__item:has-text(xxxxxxxxxxxxxxx):style(opacity: 0.05)
