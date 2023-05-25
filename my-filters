@@ -1,1 +1,474 @@
-telex.hu##a[href*="lazar-janos"]
+! 2017. 10. 12. 17:14:15 https://www.hattrick.org
+hattrick.org###ctl00_ctl00_ucBannerTop_pnlBanner
+hattrick.org###ctl00_ctl00_ucBannerSkyscraper_pnlBanner
+hattrick.org###ctl00_ucBannerTop_pnlBanner
+hattrick.org###ctl00_ucBannerSkyscraper_pnlBanner
+hattrick.org###ctl00_ctl00_ucBannerBottom_pnlBanner
+hattrick.org###ctl00_ctl00_ucBannerSideSquare_pnlBanner
+hattrick.org###ctl00_ucBannerSideSquare_pnlBanner
+hattrick.org###ft-bug-ask-notice
+
+! 2017. 10. 14. 8:11:30 https://www.hattrick-youthclub.org/
+www.hattrick-youthclub.org##.ad
+
+! 2017. 10. 18. 10:50:32 https://basketball.fantasysports.yahoo.com/nba/8886
+basketball.fantasysports.yahoo.com###yspmh
+basketball.fantasysports.yahoo.com###squarespromo
+basketball.fantasysports.yahoo.com##.Mbot-xl.D-b.W-100
+basketball.fantasysports.yahoo.com###UH
+basketball.fantasysports.yahoo.com###yspcontenthero
+basketball.fantasysports.yahoo.com##.yui3-overlay-focused.yui3-overlay-modal.yui3-widget-stacked.yui3-widget-positioned.yui3-overlay.yui3-widget
+basketball.fantasysports.yahoo.com##.yui3-overlay-mask
+basketball.fantasysports.yahoo.com##.Rollover-baseball.Bdrs.Px-lg.Py-xl.Fz-sm.Fw-b.W-100
+basketball.fantasysports.yahoo.com##.Mb\(16px\).Fxd\(c\).D\(f\).W\(100\%\)
+basketball.fantasysports.yahoo.com###yspcontentuh
+basketball.fantasysports.yahoo.com##.yui3-widget-ft
+basketball.fantasysports.yahoo.com###fantasy-sports-rightrail-index > .monalixa
+
+! 2023-01-17 https://basketballmonster.com
+basketballmonster.com##.pb-0.alert-info.alert
+basketballmonster.com##.q-uc-holder
+
+! 2021-03-09 https://www.eredmenyek.com
+www.eredmenyek.com##.otPlaceholder
+www.eredmenyek.com##.detailLeaderboard
+
+! 2021-10-11 https://www.nbcsportsedge.com
+www.nbcsportsedge.com##.scoreboard__container
+www.nbcsportsedge.com###header-top-region
+www.nbcsportsedge.com##.container > .menu--main.navigation.block-menu.block
+www.nbcsportsedge.com##.fEy1Z2XT
+www.nbcsportsedge.com##.svod-player-wrapper
+www.nbcsportsedge.com##.disruptor-banner--horizontal.player-news__disruptor-banner.disruptor-banner
+www.nbcsportsedge.com##.player-props--big.player-news-article__player-props.player-props
+www.nbcsportsedge.com###campaign
+
+! 2022-05-02 https://nbabracketology.com
+nbabracketology.com##.uv-slide-right.uv-tab
+
+! 2022-05-23 https://www.scorito.com
+scorito.com##div[class^="Advertisement_advertisement__"]
+
+! 2022-05-24 https://www.idokep.hu
+www.idokep.hu##.top-frame.ik.container
+www.idokep.hu##.pt-md-0.mb-4.mt-3.pt-3.row
+www.idokep.hu##.mitVegyekFelBox.ik
+
+! 2022-08-13 https://www.youtube.com
+www.youtube.com###chat
+
+! 2023-03-12 https://openproject.guidance.hu
+openproject.guidance.hu##.op-enterprise-banner
+
+! 2023-03-13 https://sports.yahoo.com
+sports.yahoo.com##.Pt\(5px\).Mt\(0\).YDC-Lead
+sports.yahoo.com##.Pos\(f\).T\(0\).Start\(0\).End\(0\).Z\(10\).YDC-Header
+sports.yahoo.com###Col2-0-PromoImage-Proxy
+
+! 2023-05-23 https://ncore.pro
+ncore.pro###fej_fejlec_bg
+ncore.pro##.infocsik
+ncore.pro##center:nth-of-type(1) > .banner
+ncore.pro##center:nth-of-type(1) > div
+ncore.pro##center:nth-of-type(2) > .banner
+ncore.pro##.banner
+ncore.pro###hessteg
+ncore.pro##div.hr_stuff
+||static.ncore.pro/styles/ncold/avatar3.jpg$image
+ncore.pro##div.box_torrent:has-text(A.mi.kis.falunk.S)
+ncore.pro##div.box_torrent:has-text(A.Sef.meg.a.tobbiek.S)
+ncore.pro##div.box_torrent:has-text(Yago.S)
+ncore.pro##div.box_torrent:has-text(MotoGP)
+ncore.pro##div.box_torrent:has-text(Moto3)
+ncore.pro##div.box_torrent:has-text(Moto2)
+ncore.pro##div.box_torrent:has-text(Futball.20)
+ncore.pro##div.box_torrent:has-text(Formula)
+ncore.pro##div.box_torrent:has-text(WWE)
+ncore.pro##div.box_torrent:has-text(Főmenü)
+ncore.pro##div.box_torrent:has-text(The.Rookie.S)
+ncore.pro##div.box_torrent:has-text(NFL - )
+ncore.pro##div.box_torrent:has-text(NHL - )
+ncore.pro##div.box_torrent:has-text(Hotel.Margaret.S)
+ncore.pro##div.box_torrent:has-text(Észbontók S)
+ncore.pro##div.box_torrent:has-text(A.sors.keze.S)
+ncore.pro##div.box_torrent:has-text(NASCAR)
+ncore.pro##div.box_torrent:has-text(USFL - )
+ncore.pro##div.box_torrent:has-text(Star.Trek.Prodigy.S)
+ncore.pro##div.box_torrent:has-text(Fazilet.Asszony.es.Lanyai.S)
+ncore.pro##div.box_torrent:has-text(Futball - )
+ncore.pro##div.box_torrent:has-text(Greys.Anatomy.S)
+ncore.pro##div.box_torrent:has-text(Doktor.Balaton.S)
+ncore.pro##div.box_torrent:has-text(NCIS.S)
+ncore.pro##div.box_torrent:has-text(A.Sors.Konyvei.S)
+ncore.pro##div.box_torrent:has-text(Masumlar Apartmani)
+ncore.pro##div.box_torrent:has-text(Alicia.Uj.Elete.S)
+ncore.pro##div.box_torrent:has-text(Szerelem.Kiado.S)
+ncore.pro##div.box_torrent:has-text(Remenysugar.S)
+ncore.pro##div.box_torrent:has-text(Remenyek.Foldje.S)
+ncore.pro##div.box_torrent:has-text(Ask.Mantik.Intikam.S)
+ncore.pro##div.box_torrent:has-text(/Az.igeret.2019.S.*WeBDoWN/)
+ncore.pro##div.box_torrent:has-text(SEAL.Team.S)
+ncore.pro##div.box_torrent:has-text(NBA - )
+ncore.pro##div.box_torrent:has-text(500 202)
+ncore.pro##div.box_torrent:has-text(Keresztanyu.S)
+ncore.pro##div.box_torrent:has-text(Összezárva Hajdú Péterrel)
+ncore.pro##div.box_torrent:has-text(Alpesi őrjárat S)
+ncore.pro##div.box_torrent:has-text(Aranyláz Alaszkában)
+ncore.pro##div.box_torrent:has-text(S.W.A.T.2017.S)
+ncore.pro##div.box_torrent:has-text(Darts - )
+ncore.pro##div.box_torrent:has-text(Ejjel-Nappal.Budapest)
+ncore.pro##div.box_torrent:has-text(-Picar)
+ncore.pro##div.box_torrent:has-text(-Drax)
+ncore.pro##div.box_torrent:has-text(Kézilabda - )
+ncore.pro##div.box_torrent:has-text(IndyCar - )
+ncore.pro##div.box_torrent:has-text(Pepe S)
+ncore.pro##div.box_torrent:has-text(Csináljuk a Fesztivált! 20)
+ncore.pro##div.box_torrent:has-text(Az érzelmek tengerén S)
+ncore.pro##div.box_torrent:has-text(Lángelmék S)
+ncore.pro##div.box_torrent:has-text(A.Konyhafonok)
+ncore.pro##div.box_torrent:has-text(XXI.szazad.20)
+ncore.pro##div.box_torrent:has-text(Murdoch.Mysteries.S)
+ncore.pro##div.box_torrent:has-text(Oak Island átka S)
+ncore.pro##div.box_torrent:has-text(Superman.and.Lois.S)
+ncore.pro##div.box_torrent:has-text(Fear.the.Walking.Dead.S)
+ncore.pro##div.box_torrent:has-text(Pepe.S0)
+ncore.pro##div.box_torrent:has-text(Made In Gyetván Csabával)
+ncore.pro##div.box_torrent:has-text(Jégkorong - )
+ncore.pro##div.box_torrent:has-text(Bellator MMA)
+ncore.pro##div.box_torrent:has-text(Kerékpározás - )
+ncore.pro##div.box_torrent:has-text(Szerencsekerék S)
+ncore.pro##div.box_torrent:has-text(God.Friended.Me.S)
+ncore.pro##div.box_torrent:has-text(WTCR )
+ncore.pro##div.box_torrent:has-text(Outlander.S0)
+ncore.pro##div.box_torrent:has-text(The.Velvet.Collection.S)
+ncore.pro##div.box_torrent:has-text(Ausztrál bikafogók S)
+ncore.pro##div.box_torrent:has-text(WEC - )
+ncore.pro##div.box_torrent:has-text(Dragam.add.az.eleted.S)
+ncore.pro##div.box_torrent:has-text(The.Staircase.S)
+ncore.pro##div.box_torrent:has-text(A.besugo.S)
+ncore.pro##div.box_torrent:has-text(Dr. Balthazar S)
+ncore.pro##div.box_torrent:has-text(Család-barát 202)
+ncore.pro##div.box_torrent:has-text(Ökölvívás - )
+ncore.pro##div.box_torrent:has-text(Billions.S0)
+ncore.pro##div.box_torrent:has-text(A világ legrejtélyesebb kincsei S0)
+ncore.pro##div.box_torrent:has-text(FBI.S0)
+ncore.pro##div.box_torrent:has-text(All.American.S0)
+ncore.pro##div.box_torrent:has-text(The.Pact.S0)
+ncore.pro##div.box_torrent:has-text(Superbike - )
+ncore.pro##div.box_torrent:has-text(The.Baby.S0)
+ncore.pro##div.box_torrent:has-text(FBI.Most.Wanted.S0)
+ncore.pro##div.box_torrent:has-text(Hazon.kivul.20)
+ncore.pro##div.box_torrent:has-text(Samurai.Jack.S0)
+ncore.pro##div.box_torrent:has-text(Légikatasztrófák S)
+ncore.pro##div.box_torrent:has-text(Young.Sheldon.S)
+ncore.pro##div.box_torrent:has-text(The.Sex.Lives.of.College.Girls.S0)
+ncore.pro##div.box_torrent:has-text(Az.Erzelmek.tengeren.S0)
+ncore.pro##div.box_torrent:has-text(A.szerelem.aromaja.S0)
+ncore.pro##div.box_torrent:has-text(LEGO.Ninjago.S0)
+ncore.pro##div.box_torrent:has-text(Az.igeret.2019.S)
+ncore.pro##div.box_torrent:has-text(Legacies.S0)
+ncore.pro##div.box_torrent:has-text(Snowfall.S0)
+ncore.pro##div.box_torrent:has-text(Sluga.naroda.S0)
+ncore.pro##div.box_torrent:has-text(Possessions.S0)
+ncore.pro##div.box_torrent:has-text(Section.zéro.S0)
+ncore.pro##div.box_torrent:has-text(The.Boys.S0)
+ncore.pro##div.box_torrent:has-text(American.Horror.Story.S)
+ncore.pro##div.box_torrent:has-text(Vízilabda - )
+ncore.pro##div.box_torrent:has-text(Eltűnt S0)
+ncore.pro##div.box_torrent:has-text(The.Neighborhood.S0)
+ncore.pro##div.box_torrent:has-text(Batwoman.S0)
+ncore.pro##div.box_torrent:has-text(We.Baby.Bears.S0)
+ncore.pro##div.box_torrent:has-text(She-Ra.and.the.Princesses.of.Power.S)
+ncore.pro##div.box_torrent:has-text(Baratok.kozt)
+ncore.pro##div.box_torrent:has-text(The.Time.Travelers.Wife.S0)
+ncore.pro##div.box_torrent:has-text(Nyár 22 20)
+ncore.pro##div.box_torrent:has-text(Joban.Rosszban)
+ncore.pro##div.box_torrent:has-text(A hegyi doktor)
+ncore.pro##div.box_torrent:has-text(Blue.Bloods.S)
+ncore.pro##div.box_torrent:has-text(Ms.Marvel.S0)
+ncore.pro##div.box_torrent:has-text(Obi-Wan.Kenobi.S0)
+ncore.pro##div.box_torrent:has-text(9-1-1.S)
+ncore.pro##div.box_torrent:has-text(Okkos.Inn.S)
+ncore.pro##div.box_torrent:has-text(Fantasy.Island.2021.S0)
+ncore.pro##div.box_torrent:has-text(Snowdrop.S0)
+ncore.pro##div.box_torrent:has-text(Blaze.and.the.Monster.Machines.S)
+ncore.pro##div.box_torrent:has-text(Battery.S0)
+ncore.pro##div.box_torrent:has-text(Mestercukrasz)
+ncore.pro##div.box_torrent:has-text(Irma.Vep.S0)
+ncore.pro##div.box_torrent:has-text(/Trash.?Talk.?20/)
+ncore.pro##div.box_torrent:has-text(Sankt.Maik.S)
+ncore.pro##div.box_torrent:has-text(Magnum.P.I.2018.S)
+ncore.pro##div.box_torrent:has-text(Mayans.M.C.S)
+ncore.pro##div.box_torrent:has-text(Chicago.P.D.S)
+ncore.pro##div.box_torrent:has-text(200.elso.randi.S)
+ncore.pro##div.box_torrent:has-text(Tiltott.Gyumolcs.S)
+ncore.pro##div.box_torrent:has-text(Archer.S1)
+ncore.pro##div.box_torrent:has-text(Elarulva.S0)
+ncore.pro##div.box_torrent:has-text(Snooker - )
+ncore.pro##div.box_torrent:has-text(Hegyimentők S)
+ncore.pro##div.box_torrent:has-text(Devils.Throat.S0)
+ncore.pro##div.box_torrent:has-text(Ide süss S0)
+ncore.pro##div.box_torrent:has-text(Hazasodna.a.gazda.S)
+ncore.pro##div.box_torrent:has-text(Its.Always.Sunny.in.Philadelphia.S)
+ncore.pro##div.box_torrent:has-text(Barry.S0)
+ncore.pro##div.box_torrent:has-text(White.Lines.S0)
+ncore.pro##div.box_torrent:has-text(Alfa S0)
+ncore.pro##div.box_torrent:has-text(Hide.and.Seek.2019.S)
+ncore.pro##div.box_torrent:has-text(Gentleman.Jack.S0)
+ncore.pro##div.box_torrent:has-text(Riviera.S0)
+ncore.pro##div.box_torrent:has-text(The.Good.Doctor.S)
+ncore.pro##div.box_torrent:has-text(Rap.Shit.S0)
+ncore.pro##div.box_torrent:has-text(The.Cleaning.Lady.US.S0)
+ncore.pro##div.box_torrent:has-text(Amphibia.S)
+ncore.pro##div.box_torrent:has-text(Dragons.Race.to.the.Edge.S)
+ncore.pro##div.box_torrent:has-text(See.Dad.Run.S0)
+ncore.pro##div.box_torrent:has-text(The.Flight.Attendant.S0)
+ncore.pro##div.box_torrent:has-text(Moto 2 - )
+ncore.pro##div.box_torrent:has-text(Moto 3 - )
+ncore.pro##div.box_torrent:has-text(Atlanta.S0)
+ncore.pro##div.box_torrent:has-text(Black.Jack.S0)
+ncore.pro##div.box_torrent:has-text(Pes.S0)
+ncore.pro##div.box_torrent:has-text(Élet a fagypont alatt S)
+ncore.pro##div.box_torrent:has-text(Big.Sky.S0)
+ncore.pro##div.box_torrent:has-text(The.Ghost.and.Molly.McGee.S)
+ncore.pro##div.box_torrent:has-text(Naomi.S0)
+ncore.pro##div.box_torrent:has-text(The.Kings.of.Napa.S)
+ncore.pro##div.box_torrent:has-text(Mary.Kills.People.S)
+ncore.pro##div.box_torrent:has-text(A Hoffman család aranya S)
+ncore.pro##div.box_torrent:has-text(Fazilet.Hanim.ve.Kizlari.S)
+ncore.pro##div.box_torrent:has-text(MotoE - )
+ncore.pro##div.box_torrent:has-text(Magyar nők - )
+ncore.pro##div.box_torrent:has-text(Westworld.S0)
+ncore.pro##div.box_torrent:has-text(She-Hulk.Attorney.at.Law.S)
+ncore.pro##div.box_torrent:has-text(Ősi idegenek S)
+ncore.pro##div.box_torrent:has-text(Rejtélyek az Alpokban S)
+ncore.pro##div.box_torrent:has-text(The.Resident.S0)
+ncore.pro##div.box_torrent:has-text(9-1-1.Lone.Star.S)
+ncore.pro##div.box_torrent:has-text(Meryem.S0)
+ncore.pro##div.box_torrent:has-text(X-Faktor.S)
+ncore.pro##div.box_torrent:has-text(Sztarban.sztar.leszek.S)
+ncore.pro##div.box_torrent:has-text(Tehetseg.elso.latasra.S)
+ncore.pro##div.box_torrent:has-text(You.Shall.Not.Lie.S)
+ncore.pro##div.box_torrent:has-text(A.sziget.meseje.E)
+ncore.pro##div.box_torrent:has-text(Sanditon.S)
+ncore.pro##div.box_torrent:has-text(Ferfi.Kosarlabda)
+ncore.pro##div.box_torrent:has-text(Noi.Vizilabda)
+ncore.pro##div.box_torrent:has-text(Sefek.sefe.S)
+ncore.pro##div.box_torrent:has-text(Elképesztő rejtélyek S)
+ncore.pro##div.box_torrent:has-text(Ferfi.Vizilabda)
+ncore.pro##div.box_torrent:has-text(Séfek Séfe S)
+ncore.pro##div.box_torrent:has-text(Money.or.Love.S)
+ncore.pro##div.box_torrent:has-text(Ausztrál aranyásók)
+ncore.pro##div.box_torrent:has-text(Tiltott Gyümölcs S)
+ncore.pro##div.box_torrent:has-text(NCIS.Los.Angeles.S)
+ncore.pro##div.box_torrent:has-text(Doktor Hekimoglu S)
+ncore.pro##div.box_torrent:has-text(Bob.Hearts.Abishola.S)
+ncore.pro##div.box_torrent:has-text(Bridge.and.Tunnel.S)
+ncore.pro##div.box_torrent:has-text(Nyero.Paros.S)
+ncore.pro##div.box_torrent:has-text(Vad angyal S0)
+ncore.pro##div.box_torrent:has-text(Troll a konyhában S)
+ncore.pro##div.box_torrent:has-text(NFL Countdown)
+ncore.pro##div.box_torrent:has-text(Coyote.2021.S)
+ncore.pro##div.box_torrent:has-text(Sorsforditó szerelem S)
+ncore.pro##div.box_torrent:has-text(Amor.dividido.S)
+ncore.pro##div.box_torrent:has-text(Osszetort.szivek.S)
+ncore.pro##div.box_torrent:has-text(Das.Boot.2018.S0)
+ncore.pro##div.box_torrent:has-text(Sorsfordito.szerelem.S)
+ncore.pro##div.box_torrent:has-text(Azsia.Expressz.S0)
+ncore.pro##div.box_torrent:has-text(Mister.Mayfair.S0)
+ncore.pro##div.box_torrent:has-text(A.hazassag.buktatoi.S)
+ncore.pro##div.box_torrent:has-text(Dogdugun.Ev.Kaderindir.S)
+ncore.pro##div.box_torrent:has-text(Celeb.vagyok.ments.ki.innen.S)
+ncore.pro##div.box_torrent:has-text(Brigi.es.Bruno.S)
+ncore.pro##div.box_torrent:has-text(Párharc S0)
+ncore.pro##div.box_torrent:has-text(Sister.Boniface.Mysteries.S)
+ncore.pro##div.box_torrent:has-text(Élet a fagypont alatt)
+ncore.pro##div.box_torrent:has-text(Dancing.With.The.Stars)
+ncore.pro##div.box_torrent:has-text(Baseball - MLB)
+ncore.pro##div.box_torrent:has-text(Die.Spezialisten.Im.Namen.der.Opfer)
+ncore.pro##div.box_torrent:has-text(Blood.and.Treasure.S)
+ncore.pro##div.box_torrent:has-text(Kezilabda.20)
+ncore.pro##div.box_torrent:has-text(The.Brokenwood.Mysteries.S)
+ncore.pro##div.box_torrent:has-text(Stargirl.S0)
+ncore.pro##div.box_torrent:has-text(Elveszett olasz családom S0)
+ncore.pro##div.box_torrent:has-text(A.Szerelem.Receptje.S)
+ncore.pro##div.box_torrent:has-text(Garcia.S0)
+ncore.pro##div.box_torrent:has-text(Father.Brown.2013.S)
+ncore.pro##div.box_torrent:has-text(The.Peripheral.S0)
+ncore.pro##div.box_torrent:has-text(FBI.International.S)
+ncore.pro##div.box_torrent:has-text(The.Owl.House.S)
+ncore.pro##div.box_torrent:has-text(The.Mighty.Ducks.Game.Changers.S)
+ncore.pro##div.box_torrent:has-text(A.Nagy.O.S0)
+ncore.pro##div.box_torrent:has-text(The.Mysterious.Benedict.Society.S)
+ncore.pro##div.box_torrent:has-text(Fiúból férfivá S0)
+ncore.pro##div.box_torrent:has-text(Az ügyvéd S0)
+ncore.pro##div.box_torrent:has-text(Candice.Renoir.S)
+ncore.pro##div.box_torrent:has-text(A.Sors.Jateka.S0)
+ncore.pro##div.box_torrent:has-text(Napfenyes.falunk.S0)
+ncore.pro##div.box_torrent:has-text(Ki.vagy.te.S0)
+ncore.pro##div.box_torrent:has-text(A.Nagy.Feher.Fonok.S0)
+ncore.pro##div.box_torrent:has-text(The.Good.Fight.S)
+ncore.pro##div.box_torrent:has-text(Lorraine.Pascale.How.to.Be.a.Better.Cook)
+ncore.pro##div.box_torrent:has-text(ValoVilag.S)
+ncore.pro##div.box_torrent:has-text(Farm.VIP.S)
+ncore.pro##div.box_torrent:has-text(Gyertek.at.S)
+ncore.pro##div.box_torrent:has-text(Gyertek át! S)
+ncore.pro##div.box_torrent:has-text(Next.Level.Chef.S0)
+ncore.pro##div.box_torrent:has-text(Miraculous.Tales.of.Ladybug.and.Cat.Noir.S)
+ncore.pro##div.box_torrent:has-text(Private.Eyes.S0)
+ncore.pro##div.box_torrent:has-text(Főszerepben S0)
+ncore.pro##div.box_torrent:has-text(All.Creatures.Great.and.Small.2020.S)
+ncore.pro##div.box_torrent:has-text(Advokaten.S)
+ncore.pro##div.box_torrent:has-text(Sikitofrasz.S)
+ncore.pro##div.box_torrent:has-text(Transformers.EarthSpark.S)
+ncore.pro##div.box_torrent:has-text(Emanet.S0)
+ncore.pro##div.box_torrent:has-text(Hal.a.Tortan.S)
+ncore.pro##div.box_torrent:has-text(Harry.and.Meghan.S)
+ncore.pro##div.box_torrent:has-text(Kung.Fu.2021.S)
+ncore.pro##div.box_torrent:has-text(Rookie.Cops.S)
+ncore.pro##div.box_torrent:has-text(My.Life.is.Murder.S)
+ncore.pro##div.box_torrent:has-text(Ide süss! S)
+ncore.pro##div.box_torrent:has-text(Leo.Mattei.S)
+ncore.pro##div.box_torrent:has-text(Miss.Scarlet.And.The.Duke.S)
+ncore.pro##div.box_torrent:has-text(Amit.tudni.akarsz.S)
+ncore.pro##div.box_torrent:has-text(Willow.S0)
+ncore.pro##div.box_torrent:has-text(The.Patrick.Star.Show.S)
+ncore.pro##div.box_torrent:has-text(National.Treasure.Edge.of.History.S)
+ncore.pro##div.box_torrent:has-text(The.Winchesters.S)
+ncore.pro##div.box_torrent:has-text(A vörös ajtó S)
+ncore.pro##div.box_torrent:has-text(Gyertek.at.A.Sztarvetelkedo.S)
+ncore.pro##div.box_torrent:has-text(Draga.orokosok.S)
+ncore.pro##div.box_torrent:has-text(A.Kiraly.S0)
+ncore.pro##div.box_torrent:has-text(Éber álom S)
+ncore.pro##div.box_torrent:has-text(Aranybulla S0)
+ncore.pro##div.box_torrent:has-text(Babylon.Berlin.S)
+ncore.pro##div.box_torrent:has-text(Why.Didnt.They.Ask.Evans.S)
+ncore.pro##div.box_torrent:has-text(Romulus.S)
+ncore.pro##div.box_torrent:has-text(Sisi.S)
+ncore.pro##div.box_torrent:has-text(SpongeBob.SquarePants.S)
+ncore.pro##div.box_torrent:has-text(In.Your.Place.S)
+ncore.pro##div.box_torrent:has-text(Dakar Rali)
+ncore.pro##div.box_torrent:has-text(Vigyázat, gyerekkel vagyok! S)
+ncore.pro##div.box_torrent:has-text(Ask.Laftan.Anlamaz.S)
+ncore.pro##div.box_torrent:has-text(Mavi szerelme S)
+ncore.pro##div.box_torrent:has-text(Star.Wars.The.Bad.Batch.S)
+ncore.pro##div.box_torrent:has-text(On.the.Spot.Vissza.a.termeszethez.S)
+ncore.pro##div.box_torrent:has-text(Bobs.Burgers.S)
+ncore.pro##div.box_torrent:has-text(Our.Mutual.Friend.1998.S)
+ncore.pro##div.box_torrent:has-text(Ghosts.2021.S)
+ncore.pro##div.box_torrent:has-text(Golkiralysag.S)
+ncore.pro##div.box_torrent:has-text(Capak.kozott.S)
+ncore.pro##div.box_torrent:has-text(Hölgyek paradicsoma S)
+ncore.pro##div.box_torrent:has-text(Big.Nate.S)
+ncore.pro##div.box_torrent:has-text(Vienna.Blood.S)
+ncore.pro##div.box_torrent:has-text(Apatigris.S)
+ncore.pro##div.box_torrent:has-text(Gossip.Girl.2021.S)
+ncore.pro##div.box_torrent:has-text(2. világháború - Pokol a tenger alatt S)
+ncore.pro##div.box_torrent:has-text(Midsomer.Murders.S)
+ncore.pro##div.box_torrent:has-text(The.Last.of.Us.S)
+ncore.pro##div.box_torrent:has-text(The.Talisman.S)
+ncore.pro##div.box_torrent:has-text(Hazatalalsz.S)
+ncore.pro##div.box_torrent:has-text(Miraculous.Tales.Of.Ladybug.and.Cat.Noir.S)
+ncore.pro##div.box_torrent:has-text(Viola.S0)
+ncore.pro##div.box_torrent:has-text(Fleishman.Is.In.Trouble.S)
+ncore.pro##div.box_torrent:has-text(SpongyaBob Kockanadrág)
+ncore.pro##div.box_torrent:has-text(Osszetort.szívek.S0)
+ncore.pro##div.box_torrent:has-text(Sorsfordíto.szerelem.S)
+ncore.pro##div.box_torrent:has-text(Harlem.S0)
+ncore.pro##div.box_torrent:has-text(/Tess.of.the.D\'Urbervilles.2008.S/)
+ncore.pro##div.box_torrent:has-text(Paw.Patrol.S)
+ncore.pro##div.box_torrent:has-text(SkyMed.S0)
+ncore.pro##div.box_torrent:has-text(The.First.Lady.2022.S0)
+ncore.pro##div.box_torrent:has-text(His.Dark.Materials.S)
+ncore.pro##div.box_torrent:has-text(This.Fool.S0)
+ncore.pro##div.box_torrent:has-text(Kosárlabda - )
+ncore.pro##div.box_torrent:has-text(Marriage.S0)
+ncore.pro##div.box_torrent:has-text(Carnival.Row.S0)
+ncore.pro##div.box_torrent:has-text(PAW.Patrol.S)
+ncore.pro##div.box_torrent:has-text(Sztarban.sztar.S)
+ncore.pro##div.box_torrent:has-text(Miss.Scarlet.and.the.Duke.S)
+ncore.pro##div.box_torrent:has-text(/Supersport.*nagyd/)
+ncore.pro##div.box_torrent:has-text(XFL - )
+ncore.pro##div.box_torrent:has-text(The.Croods.Family.Tree.S0)
+ncore.pro##div.box_torrent:has-text(Troll.a.konyhaban.S)
+ncore.pro##div.box_torrent:has-text(Doom.Patrol.S0)
+ncore.pro##div.box_torrent:has-text(Corazon.guerrero.S)
+ncore.pro##div.box_torrent:has-text(Daisy.Jones.and.The.Six.S)
+ncore.pro##div.box_torrent:has-text(Ultra.Violet.and.Black.Scorpion.S)
+ncore.pro##div.box_torrent:has-text(The.Villains.of.Valley.View.S)
+ncore.pro##div.box_torrent:has-text(Zsákbamacska E)
+ncore.pro##div.box_torrent:has-text(Yargi.S)
+ncore.pro##div.box_torrent:has-text(Rain.Dogs.S0)
+ncore.pro##div.box_torrent:has-text(Kaderimin.Oyunu.S)
+ncore.pro##div.box_torrent:has-text(The.Power.S0)
+ncore.pro##div.box_torrent:has-text(The.Odd.Couple.2015.S)
+ncore.pro##div.box_torrent:has-text(Az.alommelo.S0)
+ncore.pro##div.box_torrent:has-text(Mellekhatas.S0)
+ncore.pro##div.box_torrent:has-text(Droners.S0)
+ncore.pro##div.box_torrent:has-text(Station.19.S)
+ncore.pro##div.box_torrent:has-text(Hazasodna.a.gazda)
+ncore.pro##div.box_torrent:has-text(Ütős Ötös E)
+ncore.pro##div.box_torrent:has-text(Walker.S0)
+ncore.pro##div.box_torrent:has-text(Call.Your.Mother.S)
+ncore.pro##div.box_torrent:has-text(The.Mandalorian.S)
+ncore.pro##div.box_torrent:has-text(Royal.Crackers.S0)
+ncore.pro##div.box_torrent:has-text(Shetland.S0)
+ncore.pro##div.box_torrent:has-text(Perry.Mason.2020.S)
+ncore.pro##div.box_torrent:has-text(Grease.Rise.of.the.Pink.Ladies.S)
+ncore.pro##div.box_torrent:has-text(BringBackAlice.S0)
+ncore.pro##div.box_torrent:has-text(Hal a tortán S)
+ncore.pro##div.box_torrent:has-text(/Testverek.S.*TV2/)
+ncore.pro##div.box_torrent:has-text(Wheeler.Dealers.S)
+ncore.pro##div.box_torrent:has-text(/CSI.Vegas.S/)
+ncore.pro##div.box_torrent:has-text(/Django.S0/)
+ncore.pro##div.box_torrent:has-text(/Gotham.Knights.S0/)
+ncore.pro##div.box_torrent:has-text(/Parharc.S.*TV2/)
+ncore.pro##div.box_torrent:has-text(/Kasaba.Doktoru.S/)
+ncore.pro##div.box_torrent:has-text(/NCIS.Hawaii.S/)
+ncore.pro##div.box_torrent:has-text(/Baba.S.*TV2/)
+ncore.pro##div.box_torrent:has-text(/Rosalinda.S0/)
+ncore.pro##div.box_torrent:has-text(/Citadel.S0/)
+ncore.pro##div.box_torrent:has-text(/Love.and.Death.S0/)
+ncore.pro##div.box_torrent:has-text(/Rabbit.Hole.S0/)
+ncore.pro##div.box_torrent:has-text(/Pawn.Stars.Do.America.S/)
+ncore.pro##div.box_torrent:has-text(/Somebody.Somewhere.S0/)
+ncore.pro##div.box_torrent:has-text(/Two.Sides.of.the.Abyss.S0/)
+ncore.pro##div.box_torrent:has-text(/The.Ipcress.File.S0/)
+ncore.pro##div.box_torrent:has-text(/Tippelj.es.vidd.el.S0/)
+ncore.pro##div.box_torrent:has-text(/New.Amsterdam.2018.S0/)
+ncore.pro##div.box_torrent:has-text(/Alarm.fur.Cobra.11/)
+ncore.pro##div.box_torrent:has-text(/DCs.Legends.of.Tomorrow.S/)
+ncore.pro##div.box_torrent:has-text(/The.Unicorn.S0/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+
+! 2022-11-07 https://telex.hu
+telex.hu##.banner-bottom
+telex.hu##.birthday-widget
+telex.hu##.birthday-widget-mini
+telex.hu##a[href*="tamogatott-tartalom"]
+telex.hu##a[href*="/pr-cikk/"]
+telex.hu##a[href*="orban-viktor"]
+telex.hu##a[href*="deutsch-tamas"]
+telex.hu##a[href*="szijjarto"]
+telex.hu##a[href*="bayer-zsolt"]
+telex.hu##a[href*="schmidt-maria"]
+telex.hu##a[href*="menczer-tamas"]
+telex.hu##a[href*="pinter-sandor"]
+telex.hu##a[href*="retvari-bence"]
+telex.hu##a[href*="novak-elod"]
+telex.hu##a[href*="novak-katalin"]
+telex.hu##a[href*="varga-judit"]
+telex.hu##a[href*="rogan-antal"]
+telex.hu##a[href*="kovacs-zoltan"]
+telex.hu##a[href*="kocsis-mate"]
+telex.hu##a[href*="rakay-philip"]
