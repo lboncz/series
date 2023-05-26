@@ -7,6 +7,8 @@ hattrick.org###ctl00_ctl00_ucBannerBottom_pnlBanner
 hattrick.org###ctl00_ctl00_ucBannerSideSquare_pnlBanner
 hattrick.org###ctl00_ucBannerSideSquare_pnlBanner
 hattrick.org###ft-bug-ask-notice
+||hattrick.org/v2314410/App_Themes/Simple/bg.png$image
+||hattrick.org/v2314410/App_Themes/Standard/bg.png$image
 
 ! 2017. 10. 14. 8:11:30 https://www.hattrick-youthclub.org/
 www.hattrick-youthclub.org##.ad
@@ -502,3 +504,6 @@ telex.hu##.list__item, .item__content:has-text(Tóth Gabi)
 telex.hu##.list__item, .item__content:has-text(L. Simon László)
 telex.hu##.list__item, .item__content:has-text(Dézsi Csaba András)
 telex.hu##.list__item, .item__content:has-text(Tarlós István)
+telex.hu##.list__item, .item__content:has-text(Habony Árpád)
+telex.hu##.list__item, .item__content:has-text(Matolcsy György)
+telex.hu##.list__item, .item__content:has-text(Kis Grófo)
