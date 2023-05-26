@@ -508,3 +508,6 @@ telex.hu##.list__item, .item__content:has-text(Habony Árpád)
 telex.hu##.list__item, .item__content:has-text(Matolcsy György)
 telex.hu##.list__item, .item__content:has-text(Kis Grófo)
 telex.hu##.list__item, .item__content:has-text(Orbán Ráhel)
+
+facebook.com##div[data-nosnippet=""]
+
