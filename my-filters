@@ -34,6 +34,7 @@ basketballmonster.com##.q-uc-holder
 ! 2021-03-09 https://www.eredmenyek.com
 www.eredmenyek.com##.otPlaceholder
 www.eredmenyek.com##.detailLeaderboard
+www.eredmenyek.com##.isExpanded.boxOverContent__banner
 
 ! 2021-10-11 https://www.nbcsportsedge.com
 www.nbcsportsedge.com##.scoreboard__container
@@ -441,16 +442,8 @@ ncore.pro##div.box_torrent:has-text(/New.Amsterdam.2018.S0/)
 ncore.pro##div.box_torrent:has-text(/Alarm.fur.Cobra.11/)
 ncore.pro##div.box_torrent:has-text(/DCs.Legends.of.Tomorrow.S/)
 ncore.pro##div.box_torrent:has-text(/The.Unicorn.S0/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/The.Larkins.2021.S/)
+ncore.pro##div.box_torrent:has-text(/Strandkézilabda - /)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
 
 ! 2022-11-07 https://telex.hu
@@ -508,6 +501,8 @@ telex.hu##.list__item, .item__content:has-text(Habony Árpád)
 telex.hu##.list__item, .item__content:has-text(Matolcsy György)
 telex.hu##.list__item, .item__content:has-text(Kis Grófo)
 telex.hu##.list__item, .item__content:has-text(Orbán Ráhel)
+telex.hu##.list__item, .item__content:has-text(Sára Botond)
+telex.hu##.list__item, .item__content:has-text(Mészáros Lőrinc)
+telex.hu##.list__item, .item__content:has-text(Tiborcz István)
 
 facebook.com##div[data-nosnippet=""]
-
