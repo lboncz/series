@@ -508,5 +508,8 @@ telex.hu##.list__item, .item__content:has-text(Orbán Ráhel)
 telex.hu##.list__item, .item__content:has-text(Sára Botond)
 telex.hu##.list__item, .item__content:has-text(Mészáros Lőrinc)
 telex.hu##.list__item, .item__content:has-text(Tiborcz István)
+telex.hu##.list__item, .item__content:has-text(Toroczkai László)
+telex.hu##.list__item, .item__content:has-text(Dúró Dóra)
+telex.hu##.list__item, .item__content:has-text(Budaházy György)
 
 facebook.com##div[data-nosnippet=""]
