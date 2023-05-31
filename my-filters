@@ -521,5 +521,6 @@ telex.hu##.list__item, .item__content:has-text(Tiborcz István)
 telex.hu##.list__item, .item__content:has-text(Toroczkai László)
 telex.hu##.list__item, .item__content:has-text(Dúró Dóra)
 telex.hu##.list__item, .item__content:has-text(Budaházy György)
+telex.hu##.list__item, .item__content:has-text(Boldog István)
 
 facebook.com##div[data-nosnippet=""]
