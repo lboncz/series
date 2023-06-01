@@ -50,7 +50,8 @@ www.nbcsportsedge.com###campaign
 nbabracketology.com##.uv-slide-right.uv-tab
 
 ! 2022-05-23 https://www.scorito.com
-scorito.com##div[class^="Advertisement_advertisement__"]
+scorito.com##div[class^="_advertisement"]
+||scorito.com/assets/bg-tennis*.jpg
 
 ! 2022-05-24 https://www.idokep.hu
 www.idokep.hu##.top-frame.ik.container
