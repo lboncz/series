@@ -470,7 +470,7 @@ telex.hu##.fb-box
 telex.hu##.list__item--english
 telex.hu##.list__item--pr-cikk
 telex.hu##.list__item--tamogatott-tartalom
-telex.hu##.list__item, .item__content:has-text(Orbán Viktor)
+telex.hu##.list__item, .item__content:has-text(Orbán)
 telex.hu##.list__item, .item__content:has-text(Deutsch Tamás)
 telex.hu##.list__item, .item__content:has-text(Szijjártó)
 telex.hu##.list__item, .item__content:has-text(Bayer Zsolt)
