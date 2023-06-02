@@ -465,6 +465,7 @@ telex.hu##.banner-bottom
 telex.hu##.birthday-widget
 telex.hu##.birthday-widget-mini
 telex.hu##.fb-box
+telex.hu##.title-section__sponsored
 ! telex.hu##a[href*="tamogatott-tartalom"]
 ! telex.hu##.list__item:has-text(Támogatott tartalom):style(opacity: 0.05)
 telex.hu##.list__item--english
