@@ -454,7 +454,7 @@ ncore.pro##div.box_torrent:has-text(/You.Are.Everywhere.S.*TV2/)
 ncore.pro##div.box_torrent:has-text(/Moon.Girl.and.Devil.Dinosaur.S0/)
 ncore.pro##div.box_torrent:has-text(/Spy.Master.S0/)
 ncore.pro##div.box_torrent:has-text(/Végzetes vonzerő S0/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/Gyertek át - A Sztárvetélkedő/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
@@ -474,6 +474,7 @@ telex.hu##.title-section__sponsored
 telex.hu##.list__item--english
 telex.hu##.list__item--pr-cikk
 telex.hu##.list__item--tamogatott-tartalom
+telex.hu##.list__item--szepkilatas
 telex.hu##.list__item, .item__content:has-text(Orbán)
 telex.hu##.list__item, .item__content:has-text(Deutsch Tamás)
 telex.hu##.list__item, .item__content:has-text(Szijjártó)
@@ -529,7 +530,7 @@ telex.hu##.list__item, .item__content:has-text(Budaházy György)
 telex.hu##.list__item, .item__content:has-text(Boldog István)
 telex.hu##.list__item, .item__content:has-text(hegymászó)
 telex.hu##.list__item, .item__content:has-text(Takács Péter)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(Pócs János)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
