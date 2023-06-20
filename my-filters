@@ -1,3 +1,19 @@
+ncore.pro##div.box_torrent:has-text(/Nyár 23/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+
+
 ! 2017. 10. 12. 17:14:15 https://www.hattrick.org
 hattrick.org###ctl00_ctl00_ucBannerTop_pnlBanner
 hattrick.org###ctl00_ctl00_ucBannerSkyscraper_pnlBanner
@@ -462,14 +478,7 @@ ncore.pro##div.box_torrent:has-text(/Fatal.Attraction.2023.S/)
 ncore.pro##div.box_torrent:has-text(/ELF - /)
 ncore.pro##div.box_torrent:has-text(/Acorralada.S0/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+
 
 ! 2022-11-07 https://telex.hu
 telex.hu##.banner-bottom
@@ -546,10 +555,6 @@ telex.hu##.list__item, .item__content:has-text(hegymászó)
 telex.hu##.list__item, .item__content:has-text(Takács Péter)
 telex.hu##.list__item, .item__content:has-text(Pócs János)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+
 
 facebook.com##div[data-nosnippet=""]
