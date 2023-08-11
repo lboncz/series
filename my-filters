@@ -1,5 +1,5 @@
 ncore.pro##div.box_torrent:has-text(/Cápa-dossziék/)
-ncore.pro##div.box_torrent:has-text(/Professionals.S0.*BNR/)
+ncore.pro##div.box_torrent:has-text(/Professionals.S0/)
 ncore.pro##div.box_torrent:has-text(/The.Bridge.S0.*HMAX/)
 ncore.pro##div.box_torrent:has-text(/The.Calling.S0/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
