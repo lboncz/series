@@ -15,7 +15,7 @@ ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
 
 telex.hu##.list__item, .item__content:has-text(Maruzsa Zoltán)
 telex.hu##.list__item, .item__content:has-text(Németh Balázs)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(Nagy Márton)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 
