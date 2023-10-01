@@ -23,22 +23,28 @@ hattrick.org###ft-bug-ask-notice
 ||hattrick.org/v2314410/App_Themes/Simple/bg.png$image
 ||hattrick.org/v2314410/App_Themes/Standard/bg.png$image
 
-! 2017. 10. 14. 8:11:30 https://www.hattrick-youthclub.org/
-www.hattrick-youthclub.org##.ad
+! 2023-06-21 https://www.hattrick-youthclub.org
+hattrick-youthclub.org##div.header:style(padding: 0px !important; height: 10px !important)
+hattrick-youthclub.org##.header > div:nth-of-type(3) > div:nth-of-type(1):style(height: 60px !important)
+hattrick-youthclub.org##.header > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1):style(height: 100px !important)
+hattrick-youthclub.org###mainwindow > div:nth-of-type(1) > div:nth-of-type(2):style(padding: 0px !important)
+||static.hattrick-youthclub.org/resources/image/design/hy-logo.png$image
+||static.hattrick-youthclub.org/resources/image/design/navi/wiki.png$image
+||static.hattrick-youthclub.org/resources/image/design/navi/twitter.png$image
+hattrick-youthclub.org##.ad
 
-! 2017. 10. 18. 10:50:32 https://basketball.fantasysports.yahoo.com
-!basketball.fantasysports.yahoo.com###yspmh
-!basketball.fantasysports.yahoo.com###squarespromo
-!basketball.fantasysports.yahoo.com##.Mbot-xl.D-b.W-100
-!basketball.fantasysports.yahoo.com###UH
-!basketball.fantasysports.yahoo.com###yspcontenthero
-!basketball.fantasysports.yahoo.com##.yui3-overlay-focused.yui3-overlay-modal.yui3-widget-stacked.yui3-widget-positioned.yui3-overlay.yui3-widget
-!basketball.fantasysports.yahoo.com##.yui3-overlay-mask
-!basketball.fantasysports.yahoo.com##.Rollover-baseball.Bdrs.Px-lg.Py-xl.Fz-sm.Fw-b.W-100
-!basketball.fantasysports.yahoo.com##.Mb\(16px\).Fxd\(c\).D\(f\).W\(100\%\)
-!basketball.fantasysports.yahoo.com###yspcontentuh
-!basketball.fantasysports.yahoo.com##.yui3-widget-ft
-!basketball.fantasysports.yahoo.com###fantasy-sports-rightrail-index > .monalixa
+! 2023-09-23 https://basketball.fantasysports.yahoo.com
+basketball.fantasysports.yahoo.com##.Page-masthead
+basketball.fantasysports.yahoo.com##.Beacon.Mbot-xl.D-b.W-100
+basketball.fantasysports.yahoo.com###ybar:style(height: 50px !important)
+basketball.fantasysports.yahoo.com##.Grid-h-mid.Nowrap.Mbot-xxl.Pbot-med:style(margin: 0px !important; padding: 0px !important)
+basketball.fantasysports.yahoo.com##.Mod.Thm-inherit:style(margin: 0px !important)
+basketball.fantasysports.yahoo.com##.ybar-page-info.F-faded.Fz-xxs
+basketball.fantasysports.yahoo.com##.RailWrap.Page-maincontent:style(padding: 0px !important)
+basketball.fantasysports.yahoo.com##.Hd.No-bdr
+basketball.fantasysports.yahoo.com##.Hd.No-p.F-page-header:style(border: 0px !important)
+basketball.fantasysports.yahoo.com##.Flyoutselectbox.Grid-h-mid.Absolute.Topend.Mtop-sm.Mend-med:style(margin: 0px !important)
+basketball.fantasysports.yahoo.com##div:has(> div > div.ybar-menu-hover-open)
 
 ! 2023-01-17 https://basketballmonster.com
 basketballmonster.com##.pb-0.alert-info.alert
@@ -49,15 +55,11 @@ www.eredmenyek.com##.otPlaceholder
 www.eredmenyek.com##.detailLeaderboard
 www.eredmenyek.com##.isExpanded.boxOverContent__banner
 
-! 2021-10-11 https://www.nbcsportsedge.com
-www.nbcsportsedge.com##.scoreboard__container
-www.nbcsportsedge.com###header-top-region
-www.nbcsportsedge.com##.container > .menu--main.navigation.block-menu.block
-www.nbcsportsedge.com##.fEy1Z2XT
-www.nbcsportsedge.com##.svod-player-wrapper
-www.nbcsportsedge.com##.disruptor-banner--horizontal.player-news__disruptor-banner.disruptor-banner
-www.nbcsportsedge.com##.player-props--big.player-news-article__player-props.player-props
-www.nbcsportsedge.com###campaign
+! 2023-10-01 https://www.nbcsports.com
+www.nbcsports.com##.Banner
+www.nbcsports.com##.Page-header
+www.nbcsports.com##.Page-topper
+www.nbcsports.com##.Page-body:style(padding-top: 0px !important)
 
 ! 2022-05-02 https://nbabracketology.com
 nbabracketology.com##.uv-slide-right.uv-tab
@@ -81,6 +83,9 @@ openproject.guidance.hu##.op-enterprise-banner
 sports.yahoo.com##.Pt\(5px\).Mt\(0\).YDC-Lead
 sports.yahoo.com##.Pos\(f\).T\(0\).Start\(0\).End\(0\).Z\(10\).YDC-Header
 sports.yahoo.com###Col2-0-PromoImage-Proxy
+
+! 2023-08-04 https://td365.com
+td365.com##.legal-open.legal-notice.col-12
 
 ! 2023-05-23 https://ncore.pro
 ncore.pro###fej_fejlec_bg
@@ -507,7 +512,7 @@ ncore.pro##div.box_torrent:has-text(/Sefek.Sefe.S/)
 ncore.pro##div.box_torrent:has-text(/Coroner.S0/)
 ncore.pro##div.box_torrent:has-text(/Power of Love - A szerelem ereje S/)
 ncore.pro##div.box_torrent:has-text(/Cruel.Summer.S0/)
-ncore.pro##div.box_torrent:has-text(/Mutasd a hangod/)
+ncore.pro##div.box_torrent:has-text(/Mutasd.?a.?hangod/)
 ncore.pro##div.box_torrent:has-text(/Kogazdag.fiatalok.S/)
 ncore.pro##div.box_torrent:has-text(/Adom.a.napom.S/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
