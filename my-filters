@@ -50,6 +50,10 @@ basketball.fantasysports.yahoo.com##div:has(> div > div.ybar-menu-hover-open)
 basketballmonster.com##.pb-0.alert-info.alert
 basketballmonster.com##.q-uc-holder
 
+! 2023-10-06 https://www.rotowire.com
+www.rotowire.com##.ad-top.ad
+www.rotowire.com##.site-header
+
 ! 2021-03-09 https://www.eredmenyek.com
 www.eredmenyek.com##.otPlaceholder
 www.eredmenyek.com##.detailLeaderboard
