@@ -553,11 +553,13 @@ telex.hu##.list__item--pr-cikk
 telex.hu##.list__item--tamogatott-tartalom
 telex.hu##.list__item--szepkilatas
 telex.hu##.list__item--telextarcak
+telex.hu##.list__item--after
 telex.hu##.telextarcak
 telex.hu##.szepkilatas
 telex.hu##.tamogatott-tartalom
 telex.hu##.pr-cikk
 telex.hu##.english
+telex.hu##.after
 telex.hu##.list__item, .item__content:has-text(Orbán)
 telex.hu##.list__item, .item__content:has-text(Deutsch Tamás)
 telex.hu##.list__item, .item__content:has-text(Szijjártó)
