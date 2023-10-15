@@ -62,10 +62,11 @@ www.eredmenyek.com##.detailLeaderboard
 www.eredmenyek.com##.isExpanded.boxOverContent__banner
 
 ! 2023-10-01 https://www.nbcsports.com
-www.nbcsports.com##.Banner
 www.nbcsports.com##.Page-header
-www.nbcsports.com##.Page-topper
 www.nbcsports.com##.Page-body:style(padding-top: 0px !important)
+www.nbcsports.com##.Banner
+www.nbcsports.com##.Page-breadcrumbs
+www.nbcsports.com##.Page-topper-content
 
 ! 2022-05-02 https://nbabracketology.com
 nbabracketology.com##.uv-slide-right.uv-tab
