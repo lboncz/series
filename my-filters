@@ -1,10 +1,13 @@
 ncore.pro##div.box_torrent:has-text(/Bódi Margó/)
 ncore.pro##div.box_torrent:has-text(/East.New.York.S0/)
-ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
+ncore.pro##div.box_torrent:has-text(/Mentiras.pasajeras.S0/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
 ncore.pro##div.box_torrent:has-text(/xxxxxxxxxxxx/)
 
 telex.hu##.list__item, .item__content:has-text(Bohár Dániel)
+telex.hu##.list__item, .item__content:has-text(Fidelitas)
+telex.hu##.list__item, .item__content:has-text(Megafon)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 
 
