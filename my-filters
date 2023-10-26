@@ -41,12 +41,14 @@ basketball.fantasysports.yahoo.com##.Grid-h-mid.Nowrap.Mbot-xxl.Pbot-med:style(m
 basketball.fantasysports.yahoo.com##.Mod.Thm-inherit:style(margin: 0px !important)
 basketball.fantasysports.yahoo.com##.ybar-page-info.F-faded.Fz-xxs
 basketball.fantasysports.yahoo.com##.RailWrap.Page-maincontent:style(padding: 0px !important)
-basketball.fantasysports.yahoo.com##.Hd.No-bdr
 basketball.fantasysports.yahoo.com##.Hd.No-p.F-page-header:style(border: 0px !important)
 basketball.fantasysports.yahoo.com##.Flyoutselectbox.Grid-h-mid.Absolute.Topend.Mtop-sm.Mend-med:style(margin: 0px !important)
 basketball.fantasysports.yahoo.com##div:has(> div > div.ybar-menu-hover-open)
 basketball.fantasysports.yahoo.com###ybar-nav-placement
 basketball.fantasysports.yahoo.com###yspmaincontent > .Relative.Atomic
+basketball.fantasysports.yahoo.com##.Tst-adlocation-LREC
+basketball.fantasysports.yahoo.com###sportsshop-promo
+basketball.fantasysports.yahoo.com###recent-medal-promo
 
 ! 2023-01-17 https://basketballmonster.com
 basketballmonster.com##.pb-0.alert-info.alert
