@@ -649,6 +649,7 @@ telex.hu##.list__item, .item__content:has-text(Bohár Dániel)
 telex.hu##.list__item, .item__content:has-text(Fidelitas)
 telex.hu##.list__item, .item__content:has-text(Megafon)
 telex.hu##.list__item, .item__content:has-text(Gáspár Győző)
+telex.hu##.list__item, .item__content:has-text(autóMAGAZIN)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 
 facebook.com##div[data-nosnippet=""]
