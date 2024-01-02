@@ -57,7 +57,7 @@ ncore.pro##div.box_torrent:has-text(/Eden.Hotel.S/)
 telex.hu##.list__item, .item__content:has-text(Szöllősi György)
 telex.hu##.list__item, .item__content:has-text(Parragh László)
 telex.hu##.list__item, .item__content:has-text(Horváth Csaba)
-telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(Lánczi Tamás)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 
