@@ -59,6 +59,17 @@ hattrick-youthclub.org###mainwindow > div:nth-of-type(1) > div:nth-of-type(2):st
 ||static.hattrick-youthclub.org/resources/image/design/navi/twitter.png$image
 hattrick-youthclub.org##.ad
 
+! 2024-05-14 https://ingatlan.com
+ingatlan.com##div.px-3 > .px-0
+ingatlan.com##div.rounded-5.border-ash.border-1.border.bg-bright.p-3.mb-3:nth-of-type(4)
+ingatlan.com##div.rounded-5.border-ash.border-1.border.py-5.px-4
+
+! 2024-05-14 https://moly.hu
+moly.hu###rightgate
+moly.hu###leftgate
+moly.hu##.b970
+moly.hu###header_first
+
 ! 2023-09-23 https://basketball.fantasysports.yahoo.com
 basketball.fantasysports.yahoo.com##.Page-masthead
 basketball.fantasysports.yahoo.com##.Beacon.Mbot-xl.D-b.W-100
