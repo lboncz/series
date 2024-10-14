@@ -17,6 +17,7 @@ telex.hu##.list__item, .item__content:has-text(Rákay Philip)
 telex.hu##.list__item, .item__content:has-text(Pesti Srácok)
 
 telex.hu##.list__item, .item__content:has-text(Fidesz)
+telex.hu##.list__item, .item__content:has-text(fidesz)
 telex.hu##.list__item, .item__content:has-text(Fidelitas)
 telex.hu##.list__item, .item__content:has-text(Orbán)
 telex.hu##.list__item, .item__content:has-text(Parragh László)
