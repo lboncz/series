@@ -779,6 +779,9 @@ telex.hu##.gasztro
 telex.hu##.list__item--gasztro
 
 telex.hu##.list__item, .item__content:has-text(autóMAGAZIN)
+telex.hu##.list__item, .item__content:has-text(Szuverenitásvédelmi Hivatal)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
+telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 
 facebook.com##div[data-nosnippet=""]
