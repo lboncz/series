@@ -773,6 +773,10 @@ telex.hu##.pr-cikk
 telex.hu##.english
 telex.hu##.after
 telex.hu##.zacc
+telex.hu##.kult
+telex.hu##.list__item--kult
+telex.hu##.gasztro
+telex.hu##.list__item--gasztro
 
 telex.hu##.list__item, .item__content:has-text(autóMAGAZIN)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
