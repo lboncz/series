@@ -2,6 +2,7 @@ telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(xxxxxxxxxxxxxxxxxxxxxxxx)
 telex.hu##.list__item, .item__content:has-text(/xxxxxxxxxxxxxxxxxxxxxx/):style(opacity: 0.05)
 
+telex.hu##.list__item, .item__content:has-text(Filep Dávid)
 telex.hu##.list__item, .item__content:has-text(Bayer Zsolt)
 telex.hu##.list__item, .item__content:has-text(Schmidt Mári)
 telex.hu##.list__item, .item__content:has-text(Szöllősi György)
