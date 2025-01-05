@@ -77,6 +77,20 @@ ncore.pro###hessteg
 ncore.pro##div.hr_stuff
 ||static.ncore.pro/styles/ncold/avatar3.jpg$image
 
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/2160p/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/1080i/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/BD25/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/BD50/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/H\.265/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/\.3D\./"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/\.UHD\./"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/S1.E/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/S0.E/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/202/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/201/"))
+ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/200/"))
+! ncore.pro##div.box_torrent:has(div.torrent_txt > a:matches-attr(title="/xxxxxxxxxxxxxxxxxxxxxxxxxxxxx/"))
+
 ! 2022-11-07 https://telex.hu
 telex.hu##.banner-bottom
 telex.hu##.birthday-widget
